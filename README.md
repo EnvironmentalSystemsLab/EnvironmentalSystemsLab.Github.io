@@ -1,5 +1,3 @@
 # EnvironmentalSystemsLab.Github.io
-Lab website.
-
-Site is served as:
+Lab website served as:
 https://environmentalsystemslab.github.io/
