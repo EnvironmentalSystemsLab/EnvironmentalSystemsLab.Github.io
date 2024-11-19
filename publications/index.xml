@@ -33,5 +33,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Books</title>
+      <link>https://es.aap.cornell.edu/publications/book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://es.aap.cornell.edu/publications/book/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
