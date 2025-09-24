@@ -8,10 +8,17 @@
     <language>en-us</language>
     <atom:link href="https://es.aap.cornell.edu/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Eddy3D</title>
-      <link>https://es.aap.cornell.edu/software/eddy3d/</link>
+      <title>EnergyAtlas</title>
+      <link>https://es.aap.cornell.edu/software/energyatlas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://es.aap.cornell.edu/software/eddy3d/</guid>
+      <guid>https://es.aap.cornell.edu/software/energyatlas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Viewscore.io</title>
+      <link>https://es.aap.cornell.edu/software/viewscore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://es.aap.cornell.edu/software/viewscore/</guid>
       <description></description>
     </item>
     <item>
@@ -26,6 +33,13 @@
       <link>https://es.aap.cornell.edu/software/archsim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://es.aap.cornell.edu/software/archsim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eddy3D</title>
+      <link>https://es.aap.cornell.edu/software/eddy3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://es.aap.cornell.edu/software/eddy3d/</guid>
       <description></description>
     </item>
     <item>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://es.aap.cornell.edu/software/eddy3d/</loc>
+    <loc>https://es.aap.cornell.edu/software/energyatlas/</loc>
   </url><url>
     <loc>https://es.aap.cornell.edu/teaching/es1/</loc>
   </url><url>
@@ -18,6 +18,8 @@
   </url><url>
     <loc>https://es.aap.cornell.edu/research/view-satisfaction-prediction/</loc>
   </url><url>
+    <loc>https://es.aap.cornell.edu/software/viewscore/</loc>
+  </url><url>
     <loc>https://es.aap.cornell.edu/teaching/class2/</loc>
   </url><url>
     <loc>https://es.aap.cornell.edu/research/covid-19-eddy3d/</loc>
@@ -32,8 +34,6 @@
   </url><url>
     <loc>https://es.aap.cornell.edu/software/urbano/</loc>
   </url><url>
-    <loc>https://es.aap.cornell.edu/software/archsim/</loc>
-  </url><url>
     <loc>https://es.aap.cornell.edu/research/autozoner/</loc>
   </url><url>
     <loc>https://es.aap.cornell.edu/research/eddy/</loc>
@@ -46,7 +46,11 @@
   </url><url>
     <loc>https://es.aap.cornell.edu/teaching/class3/</loc>
   </url><url>
+    <loc>https://es.aap.cornell.edu/software/archsim/</loc>
+  </url><url>
     <loc>https://es.aap.cornell.edu/publications/book/</loc>
+  </url><url>
+    <loc>https://es.aap.cornell.edu/software/eddy3d/</loc>
   </url><url>
     <loc>https://es.aap.cornell.edu/research/hdr-photography/</loc>
   </url><url>
